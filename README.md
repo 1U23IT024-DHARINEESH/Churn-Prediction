@@ -140,6 +140,3 @@ This project demonstrates how Machine Learning can be used to predict customer c
 Decision Tree, Random Forest, and Gradient Boosting algorithms are implemented and evaluated using Accuracy, Precision, Recall, and F1-Score.
 
 The project helps identify customers who are at risk of leaving and supports organizations in taking proactive steps to improve customer retention.
-
-## Author
-**Dharineesh D.R.**
