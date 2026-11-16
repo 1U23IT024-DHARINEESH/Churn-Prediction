@@ -27,21 +27,21 @@ The dataset contains:
 - **Target Column:** Attrition_Flag
 
 ### Important Features
-| Feature | Description |
-|---|---|
-| CLIENTNUM | Customer ID |
-| Customer_Age | Customer age |
-| Gender | Customer gender |
-| Dependent_count | Number of dependents |
-| Education_Level | Education qualification |
-| Marital_Status | Marital status |
-| Income_Category | Income category |
-| Card_Category | Card type |
-| Credit_Limit | Credit limit |
-| Total_Trans_Amt | Total transaction amount |
-| Total_Trans_Ct | Total transaction count |
-| Avg_Utilization_Ratio | Credit utilization ratio |
-| Attrition_Flag | Customer status (Target) |
+ Feature  Description 
+
+ CLIENTNUM  Customer ID 
+Customer_Age  Customer age 
+Gender  Customer gender 
+Dependent_count  Number of dependents 
+Education_Level  Education qualification 
+Marital_Status  Marital status 
+Income_Category  Income category 
+Card_Category  Card type 
+Credit_Limit  Credit limit 
+Total_Trans_Amt  Total transaction amount 
+Total_Trans_Ct  Total transaction count 
+Avg_Utilization_Ratio  Credit utilization ratio 
+Attrition_Flag  Customer status (Target) 
 
 ## 5. Technologies Used
 - Python
