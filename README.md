@@ -29,7 +29,7 @@ The dataset contains:
 ### Important Features
  Feature  Description 
 
- CLIENTNUM  Customer ID 
+CLIENTNUM  Customer ID 
 Customer_Age  Customer age 
 Gender  Customer gender 
 Dependent_count  Number of dependents 
